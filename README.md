@@ -1,25 +1,25 @@
-# ApacheCN ¶ÌÆª¼¯
+# Apache 2.0 çŸ­ç¯‡é›†
 
-´Ë´¦´æ·Å ApacheCN ³ÉÔ±·­ÒëµÄ¶ÌÆª¡£
+æ­¤å¤„å­˜æ”¾ ApacheCN æˆå‘˜ç¿»è¯‘çš„çŸ­ç¯‡ã€‚
 
-## Ä¿Â¼
+## ç›®å½•
 
-+   CS ½Ì³Ì
-    +   [´ÓÁã±àĞ´¼òµ¥µÄÊı¾İ¿â](docs/simple-db-zh)
-+   AI ½Ì³Ì
-    +   [Óë TensorFlow µÄ³õ´Î½Ó´¥](docs/first_contact_with_tensorFlow)
-    +   [Sklearn Ñ§Ï°Ö¸ÄÏ](docs/learning-sklearn)
-    +   [TensorFlow Ñ§Ï°Ö¸ÄÏ](docs/learning-tf-zh)
-    +   [PythonProgramming.net ½Ì³Ì·­Òë](docs/python-programming-net)
-    +   [TensorFlow Eager ½Ì³Ì](docs/tf-eager-tut)
-    +   [TensorFlow ¸ßĞ§±à³Ì](docs/effective-tf.md)
-    +   [Sklearn ÃØ¼®](docs/sklearn-cb)
-    +   [TutorialsPoint NumPy ½Ì³Ì](docs/tutorialspoint-numpy.md)
-    +   [Í¼Ç¶Èë×ÛÊö£¨Arxiv 1709.07604£©](docs/ge-survey-arxiv-1709-07604-zh)
-    +   [»ùÓÚÉî¶ÈÑ§Ï°µÄÍÆ¼öÏµÍ³£º×ÛÊöºÍĞÂÊÓ½Ç](docs/rs-survey-arxiv-1707-07435-zh)
-    +   [¹ØÓÚ¾í»ıÉñ¾­ÍøÂçÎÒÃÇÀí½âÁËÊ²Ã´](docs/what-do-we-understand-about-convnet)
-    +   [»úÆ÷Ñ§Ï°³¬¼¶¸´Ï°±Ê¼Ç](docs/super-machine-learning-revision-notes)
++   CS æ•™ç¨‹
+    +   [ä»é›¶ç¼–å†™ç®€å•çš„æ•°æ®åº“](docs/simple-db-zh)
++   AI æ•™ç¨‹
+    +   [ä¸ TensorFlow çš„åˆæ¬¡æ¥è§¦](docs/first_contact_with_tensorFlow)
+    +   [Sklearn å­¦ä¹ æŒ‡å—](docs/learning-sklearn)
+    +   [TensorFlow å­¦ä¹ æŒ‡å—](docs/learning-tf-zh)
+    +   [PythonProgramming.net æ•™ç¨‹ç¿»è¯‘](docs/python-programming-net)
+    +   [TensorFlow Eager æ•™ç¨‹](docs/tf-eager-tut)
+    +   [TensorFlow é«˜æ•ˆç¼–ç¨‹](docs/effective-tf.md)
+    +   [Sklearn ç§˜ç±](docs/sklearn-cb)
+    +   [TutorialsPoint NumPy æ•™ç¨‹](docs/tutorialspoint-numpy.md)
+    +   [å›¾åµŒå…¥ç»¼è¿°ï¼ˆArxiv 1709.07604ï¼‰](docs/ge-survey-arxiv-1709-07604-zh)
+    +   [åŸºäºæ·±åº¦å­¦ä¹ çš„æ¨èç³»ç»Ÿï¼šç»¼è¿°å’Œæ–°è§†è§’](docs/rs-survey-arxiv-1707-07435-zh)
+    +   [å…³äºå·ç§¯ç¥ç»ç½‘ç»œæˆ‘ä»¬ç†è§£äº†ä»€ä¹ˆ](docs/what-do-we-understand-about-convnet)
+    +   [æœºå™¨å­¦ä¹ è¶…çº§å¤ä¹ ç¬”è®°](docs/super-machine-learning-revision-notes)
 
-## ÔŞÖúÎÒÃÇ
+## èµåŠ©æˆ‘ä»¬
 
 ![](http://data.apachecn.org/img/about/donate.jpg)
